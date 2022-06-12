@@ -1,8 +1,9 @@
 team : Tigers
 
-manager : John
+manager : Donald
 
 member:
 - Linda
 - William
 - David
+- George
